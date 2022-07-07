@@ -12,4 +12,4 @@ In my application, you are able to:
 You can go ahead and try it out by yourself!
 
 Click on the link below
-[Todo React](https://palacios97.github.io/todo-react/)
+[Todo React](https://sunny-froyo-307bf6.netlify.app)
