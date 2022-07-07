@@ -1,4 +1,4 @@
-##Getting Started with React
+### Getting Started with React
 
 This project is based on the basics of React.
 In my application, you are able to:
